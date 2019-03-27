@@ -1,3 +1,2 @@
 # BookNotes
-Notes for books reading
-Please refer the wiki pages
+Notes for books reading, please refer the wiki pages
