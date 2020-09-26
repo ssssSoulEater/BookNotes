@@ -12,4 +12,9 @@
   * Type:
     * Regression: contious values
     * Classification: discrete values
-  
+* Linear Regression
+  * Modle: y = wx + b
+  * Loss: L = sum(y-y')^2 (usually use averageL=L/num, called Mean Square Error MSE)
+
+* Training
+  * Giving examples, trying to find a model that minimize the loss (empierical risk minimization)
